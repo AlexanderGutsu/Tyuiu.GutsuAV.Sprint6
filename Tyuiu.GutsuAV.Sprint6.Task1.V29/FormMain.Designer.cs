@@ -1,7 +1,7 @@
 ﻿
 namespace Tyuiu.GutsuAV.Sprint6.Task1.V29
 {
-    partial class Form1
+    partial class FormMain
     {
         /// <summary>
         /// Required designer variable.
