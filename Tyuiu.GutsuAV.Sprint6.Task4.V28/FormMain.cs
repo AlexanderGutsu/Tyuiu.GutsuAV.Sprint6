@@ -74,7 +74,7 @@ namespace Tyuiu.GutsuAV.Sprint6.Task4.V28
 
         private void buttonHelp_GAV_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Таск 4 выполнил студент группы ИИПб-23-1 Гуцу А.В.", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Таск 4 выполнил студент группы ИИПб-23-1 Гуцу Александр Владимирович", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void FormMain_Load(object sender, EventArgs e)
